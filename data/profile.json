@@ -1,7 +1,7 @@
 {
-  "name": "Jose D S Silva",
+  "name": "Douglas",
   "photo": "https://avatars.githubusercontent.com/u/104078248?v=4",
-  "job": "-",
+  "job": "Desempregado",
   "location": "Maceió - AL",
   "phone": "(82) 99393-1970",
   "email": "sjsdouglas@gmail.com",
@@ -33,16 +33,26 @@
   ],
   "portfolio": [
     {
-      "name": "",
-      "url": "",
+      "name": "Jogo de Cartas do Yu Gi Oh Versão Jokenpo com JavaScript e CSS",
+      "url": "https://github.com/sjsdouglas/Criando-um-Jogo-de-Cartas-do-Yu-Gi-Oh-com-JavaScript-e-CSS",
+      "github": true
+    }
+    {
+      "name": "Pokedex com JavaScript e CSS",
+      "url": "https://github.com/sjsdouglas/js-developer-pokedex",
+      "github": true
+    }
+    {
+      "name": "Layout responsivo para o site do Discord com CSS" ,
+      "url": "https://github.com/sjsdouglas/Construindo-um-Layout-Responsivo-Para-o-Site-do-Discord-Com-CSS",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "",
-      "period": "",
-      "description": ""
+      "name": "AlmavivA Experience",
+      "period": "2023-2025",
+      "description": "Representante de atendimento."
     }
   ]
 }
